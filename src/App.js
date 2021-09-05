@@ -2,7 +2,6 @@ import { Switch, Route, Link } from "react-router-dom";
 import AppBar from "@material-ui/core/AppBar";
 import "./App.css";
 import Button from "@material-ui/core/Button";
-import { makeStyles } from "@material-ui/core/styles";
 import TextField from "@material-ui/core/TextField";
 import { Products } from "./Products";
 import { About } from "./About";
